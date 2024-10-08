@@ -2,6 +2,20 @@
 
 ### ⭐ If you find this repository helpful, please give it a star! ⭐
 
+#### 🎯 Follow me on Github 🎯
+[![GitHub followers](https://img.shields.io/github/followers/strivedi4u.svg?style=social&label=Follow)](https://github.com/strivedi4u?tab=followers)
+
+🎯 Connect with fellow contributors, get support, and have fun along the way!
+🟢 Join our WhatsApp Group Now!
+
+🔗 Click Here to Join!  👇👇👇👇👇👇👇
+
+https://chat.whatsapp.com/JP5uGuNAS0f6ShuuanPh7E
+
+![Hacktoberfest2024](https://github.com/user-attachments/assets/e1f0f8b0-146f-4c0b-9ee0-51cc9f0c99b4)
+
+
+
 This repository is part of **Hacktoberfest 2024!** 🌍  
 We’re excited to have you here and encourage developers of all skill levels, especially beginners, to participate in contributing to this open-source project. Whether it’s your first time contributing or you're an experienced developer, this project is designed to be welcoming, fun, and collaborative!
 
